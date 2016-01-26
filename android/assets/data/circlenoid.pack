@@ -1,0 +1,68 @@
+
+circlenoid.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+anticlockwise-rotation
+  rotate: false
+  xy: 5, 647
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+clockwise-rotation
+  rotate: false
+  xy: 5, 389
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+speaker-off
+  rotate: false
+  xy: 271, 647
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+speaker
+  rotate: false
+  xy: 5, 131
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 271, 517
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+down
+  rotate: false
+  xy: 537, 775
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 5, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 271, 387
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 409, 581
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
